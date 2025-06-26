@@ -1,1 +1,1 @@
-# Snake-Old-Game
+# Snake-Old-Game.. Teman teman, game ini buatan saya dan adalah hak cipta saya sendiri. game ini terinspirasi dari game ular di handphone jadul seperti nokia. saya harap game ini menyenangkan untuk kalian. @ShinProject
